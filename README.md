@@ -42,6 +42,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/bruno-zanon-aaa7ba22a/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:brunonascimentodenv@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/BrunoZanon0)
+[![Linkedin](https://img.shields.io/badge/-BrunoZanon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/bruno-zanon-aaa7ba22a/)
+[![Gmail Badge](https://img.shields.io/badge/-brunonascimentodenv@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:brunonascimentodenv@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/brunozanon0?label=follow&style=social)](https://github.com/BrunoZanon0)
