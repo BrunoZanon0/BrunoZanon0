@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
 
 ## Sobre mim
 
@@ -16,7 +16,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![PHP](https://img.shields.io/badge/-Jest-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![laravel](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=laravel)
+![laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
 
 **Utilidades**
 
@@ -39,9 +39,6 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
