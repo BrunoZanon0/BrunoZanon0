@@ -6,7 +6,7 @@
 
 <p align="left"> 
   Meu nome é Bruno e sou <strong> Desenvolvedor Back end em Laravel </strong> <br>
-  No momento estou estudando React e Angular.
+  No momento estou estudando React e Angular
 </p>
 
 ## Minhas Skills
